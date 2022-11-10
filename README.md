@@ -1,4 +1,5 @@
 # ohh
+```java
 使用treeMap 作为概率和奖励对象的存储工具 【key-计算后的概率，value-奖励对象】
 Random r =new Random();
 设置一个概率最大倍数，multiple=100000
@@ -16,3 +17,4 @@ if(map1.isempty){
 }else{
 map1.firstKey();
 }
+```
